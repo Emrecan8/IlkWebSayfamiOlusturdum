@@ -1,5 +1,5 @@
-### Emre C. Yaşar
-# Hakkımda
+# Emre C. Yaşar
+### Hakkımda
 
 ```
     Merhaba ben Emre C. Yaşar.İstanbulda yaşıyorum.Bilim kurgu izlemeyi çok seviyorum.Büyük bir Star Wars hayranıyım.Web geliştirme ile ilgileniyorum.
@@ -7,7 +7,7 @@
 
 ## Sevdiğim Film Serisi
 
-# Star Wars Serisi
+### Star Wars Serisi
 
 ``` 
     Rogue One (2016)
