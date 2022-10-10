@@ -1,0 +1,60 @@
+.color-blue .fw-normal{
+    color: blue;
+    font-weight: normal;
+}
+h1 , h2 {
+    color: #494975;
+}
+.text-red{
+    color: red;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.fs-20{
+    font-size: 20px;
+}
+
+.fs-30{
+    font-size: 30px;
+}
+
+#first-article{
+    font-size: 20px;
+}
+
+#LargeHadding{
+    font-size: 42px;
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    
+}
+
+/* ul>li:first-child{
+    color: green;
+}
+
+ul>li:last-child{
+    color: aqua;
+}
+
+li:nth-child(2){
+    color: red;
+} */
+
+/* li:nth-child(even){
+    color:red;
+}
+
+li:nth-child(odd){
+    color:blue;
+} */
+
+li:nth-child(3n+0){
+    color: red;
+}
