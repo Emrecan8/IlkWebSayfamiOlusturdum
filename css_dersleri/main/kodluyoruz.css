@@ -1,4 +1,36 @@
-.color-blue .fw-normal{
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1000px;
+}
+.left-bar{
+    widows: 200px;
+}
+.content{
+    width: 800px;
+}
+
+.clearfix{
+    clear: both;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-green{
+    background-color:green;
+}
+/* .color-blue .fw-normal{
     color: blue;
     font-weight: normal;
 }
@@ -33,7 +65,7 @@ h1 , h2 {
 .link{
     text-align: center;
     
-}
+} */
 
 /* ul>li:first-child{
     color: green;
@@ -55,6 +87,22 @@ li:nth-child(odd){
     color:blue;
 } */
 
-li:nth-child(3n+0){
+/* li:nth-child(3n+0){
     color: red;
+} */
+
+/* a[href^="https"]{
+    background-color: yellow;
+} */
+
+/* div[title~="isim"]{
+    color: orange;
 }
+
+div[class$="test"]{
+    background-color: rgb(180, 164, 164);
+}
+
+a[href*="https"][href$="com/"]{
+background-color: yellow;
+} */
