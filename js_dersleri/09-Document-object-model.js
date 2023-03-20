@@ -7,4 +7,4 @@ console.log(document.head)
 console.log(document.URL)
 console.log(document.baseURI)
 
-document.body.style.backgroundColor="aqua"
+document.body.style.backgroundColor="white"
